@@ -1,0 +1,768 @@
+Tipologia,Marca,Dettaglio,Formato,Heksher,S,Note
+Acqua gassata,Rocchetta,Brio Blu,,OU,P,
+Acqua gassata,Tavina,,,OU,P,
+Acqua naturale,Rocchetta,,,OU,P,
+Acqua naturale,Uliveto,,,OU,P,
+Acqua naturale,Tavina,,,OU,P,
+Acqua naturale,Ferrarelle,,,OU,P,
+Estratti,Tassoni,Cedrata Tassoni,,KLBD,P,Heksher sulla confezione
+Estratti,Tassoni,Fior di Sambuco,,KLBD,P,Heksher sulla confezione
+Estratti,Tassoni,Tonica superfine,,KLBD,P,Heksher sulla confezione
+Infuso,Arizona,Watermelon,,OU,P,
+Infuso,Arizona,Mucho Mango,,OU,P,
+Infuso,Arizona,Pomegranate and Green tea,,OU,P,
+Infuso,Arizona,Blueberry White Tea,,OU,P,
+Infuso,Arizona,Green Tea with honey and peach,,OU,P,
+Infuso,Arizona,Green Tea with honey,,OU,P,
+Succo di frutta,Bravo Rauch,Arancia,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Arancia Rossa,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,ACE,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Amarena,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Ananas,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Ananas Cocco,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Senza Zucchero - Ananas,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Senza Zucchero - Arancia,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Cranberry,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Fragola,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Mela,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Mela verde,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Bravo Rauch,Mirtillo,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Albicocca,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Amarena,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Ananas,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Ananas Cocco,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Arancia chiara,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Arancia Mango,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Cranberry,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Lampone,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Lychee,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Mandarino,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Mango,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Mela,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Mela Bio,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Melagrana,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Melone,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Mirtillo,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Passion fruit,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Pera,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Pesca,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Pomodoro,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Happy Day,Pompelmo rosa,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,ACE,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Albicocca,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Albicocca BIO,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Ananas,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Ananas Cocco,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Arancia,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Arancia Bio,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Arancia Rossa,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Banana,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Cranberry,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Mango,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Mela,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Mela Bio,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Mirtillo,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Pera,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Pesca,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Pomodoro,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Pompelmo,,Rav S.A. Schlessinger - Strasbourg,P,
+Succo di frutta,Rauch,Ribes,,Rav S.A. Schlessinger - Strasbourg,P,
+Sciroppo,Fabbri 1905,Inventabibite Menta,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Inventabibite Menta,560 ml PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Inventabibite Menta Bio,560 ml PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Amaretto,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Banana,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Caramello,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Cioccolato,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Fragola,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Glacial Mint,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Kiwi,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Lime,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Limone,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Menta Alpina,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Nocciola,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Orzata,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Papaya,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Tropical Blu,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixybar Vaniglia,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixyfree Caramello,1000 ml,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixyfree Nocciola,1000 ml,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Mixyfree Vaniglia,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Orzata,1 lt PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Sciroppo Cedrata,560 ml PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Sciroppo Fragola,560 ml PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Sciroppo Lemonkiwi,560 ml PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Sciroppo Limone,560 ml PET,Star K,P,Heksher sulla confezione
+Sciroppo,Fabbri 1905,Sciroppo Menta piperita,560 ml PET,Star K,P,Heksher sulla confezione
+Anacardo,Alpro,Cashew Drink Original,1l; 500ml,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Avena,Alpro,Oat Almond barista,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Cocco,Alpro,Coconut Almond Drink,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Cocco,Alpro,Coconut Choco Drink,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Cocco,Alpro,Coconut Drink with Rice,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Mandorla,Alpro,Almond Drink Dark Chocolate Flavour,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Mandorla,Alpro,Almond Drink for Professionals,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Mandorla,Alpro,Almond Drink Roasted Original,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Mandorla,Alpro,Almond Drink Roasted Unsweetened,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Mandorla,Alpro,Almond Drink unsweetened unroasted,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Mandorla,Alpro,Almond Drink Vanilla Flavour,1l; 200ml,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Nocciola,Alpro,Hazelnut Drink Original,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Riso,Alpro,Rice Drink Light,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Riso,Alpro,Rice Drink Original,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Drink Soya Original Fresh,"1l, 250ml","BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Growing Up Fresh,1l; 250ml,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Banana,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Bio,1l,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Choco,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Choco light,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Junior,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Light,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Macchiato,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Mild,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Natural,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Original,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Red Fruit,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya barista,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Unsweetened,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Vanilla,250 ml,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya Drink Vanilla light,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Soya,Alpro,Soya for Professionals,,"BD""TZ Shomrei Hadat-Anversa",P,Il numero di lotto deve iniziare con due lettere (da A a H). Non quello prodotto in Italia.
+Avena,Scotti,Avena - Cacao,,Approvato BDM / BDR,P,
+Avena,Scotti,Avena Barista,,Approvato BDM / BDR,P,
+Riso,Scotti,Chiccolat - Nocciola,,Approvato BDM / BDR,P,
+Riso,Scotti,Chiccolat - Quinoa,,Approvato BDM / BDR,P,
+Riso,Scotti,Chiccolat - Riso,,Approvato BDM / BDR,P,
+Riso,Scotti,Chiccolat - Riso con cacao,,Approvato BDM / BDR,P,
+Riso,Scotti,Chiccolat - Riso con cocco,,Approvato BDM / BDR,P,
+Riso,Scotti,Chiccolat - Riso integrale,,Approvato BDM / BDR,P,
+Mandorla,Scotti,Mandorla senza zucchero,,Approvato BDM / BDR,P,
+Avena,The Bridge / Viamia,Bevanda di Avena - Barista,1l,KLBD,P,
+Avena,The Bridge / Viamia,Bevanda di Avena - Gluten Free,1l,KLBD,P,
+Avena,The Bridge / Viamia,Bevanda di Avena - Natural,1l; 500ml,KLBD,P,
+Avena,The Bridge / Viamia,Bevanda di Avena con calcio,1l,KLBD,P,
+Avena,The Bridge / Viamia,Bevanda di Avena e Cacao,1l,KLBD,P,
+Cocco,The Bridge / Viamia,Bevanda di Cocco,1l,KLBD,P,
+Grano Saraceno,The Bridge / Viamia,Bevanda di Grano Saraceno,1l,KLBD,P,
+Mandorla,The Bridge / Viamia,Bevanda di Mandorla 3%,,KLBD,P,
+Mandorla,The Bridge / Viamia,Bevanda di Mandorla - senza zucchero,,KLBD,P,
+Mandorla,The Bridge / Viamia,Bevanda di Mandorla original,,KLBD,P,
+Mandorla,The Bridge / Viamia,Bevanda pura di Mandorla 6% senza zucchero,,KLBD,P,
+Noce,The Bridge / Viamia,Bevanda di Noce Brasiliana,,KLBD,P,
+Quinoa,The Bridge / Viamia,Bevanda di Quinoa,,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso - Natural,1l; 500ml,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso con Cacao,1l; 250ml,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso con calcio,1l,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso con Vaniglia,1l,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso e Cocco,"1l, 250ml",KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso e Mandorla,1l; 250ml,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso e Nocciola,1l,KLBD,P,
+Riso,The Bridge / Viamia,Bevanda di Riso integrale,1l,KLBD,P,
+Soya,The Bridge / Viamia,Bevanda di Soya barista,,KLBD,P,
+Soya,The Bridge / Viamia,Bevanda soia,1l,KLBD,P,
+Soya,The Bridge / Viamia,Bevanda soia con Cacao,1l,KLBD,P,
+Soya,The Bridge / Viamia,Bevanda di Soya con Vaniglia,1l,KLBD,P,
+Spelta,The Bridge / Viamia,Bevanda di Spelta,,KLBD,P,
+Mandorla,Mand'or,Bevanda alle Mandorle,,KF,P,Heksher sulla confezione
+Mandorla,Mand'or,Bevanda alle Mandorle Nocciole e Pistacchio,,KF,P,Heksher sulla confezione
+Mandorla,Mand'or,Bevanda Mandorle Bio,,KF,P,Heksher sulla confezione
+Mandorla,Mand'or,Bevanda Mandorla Light + Calcio,,KF,P,Heksher sulla confezione
+Mandorla,Orasì,Bevanda alle mandorle con vitamine e calcio,,OU,P,Heksher sulla confezione
+Mandorla,Orasì,Bevanda alle Mandorle,,OU,P,Heksher sulla confezione
+Nocciola,Orasì,Bevanda alla nocciola con vitamine e calcio,1l,OU,P,Heksher sulla confezione
+Nocciola,Orasì,Bevanda alla Nocciola,1l,OU,P,Heksher sulla confezione
+Noce,Orasì,Bevanda alla Noce,,OU,P,Heksher sulla confezione
+Riso,Orasì,Bevanda di Riso,,OU,P,Heksher sulla confezione
+Riso,Orasì,Rugiada di riso,,OU,P,Heksher sulla confezione
+Riso,Orasì,Rugiada di riso - Melograno e bacche di Goji,,OU,P,Heksher sulla confezione
+Riso,Orasì,Rugiada di riso / Frutto della passione e curcuma,,OU,P,Heksher sulla confezione
+Riso,Orasì,Rugiada di riso / Limone e zenzero,,OU,P,Heksher sulla confezione
+Soya,Orasì,Bevanda di soia e cacao,,OU,P,Heksher sulla confezione
+Soya,Orasì,Bevanda di soia e vaniglia,,OU,P,Heksher sulla confezione
+Soya,Orasì,Bevanda di Soia,,OU,P,Heksher sulla confezione
+Soya,Nutrimy Bio,Bevanda vegetale a base di Soia,,KF,P,
+Birra,Asahi,Super Dry,,KF,P,Lista liquori CRC; Lista liquori Star K
+Birra,Asahi,Black,,OU,P,Lista liquori CRC; Lista liquori Star K
+Birra,Asahi,Select,,OK,P,Lista liquori CRC; Lista liquori Star K
+Birra,Corona,Extra,,OU,P,Lista liquori CRC; Lista liquori Star K
+Birra,Corona,Light,,OU,P,Lista liquori CRC; Lista liquori Star K
+Birra,Corona,Cerveza,,OU,P,Lista liquori CRC; Lista liquori Star K
+Birra,Guinness,Stout,,,P,Lista liquori Star K; Approvato da KLBD
+Birra,Hacker Pshorr,Munich Gold,,,P,Lista liquori CRC; Lista liquori Star K
+Birra,Hacker Pshorr,Original Oktoberfest,,,P,Lista liquori CRC; Lista liquori Star K
+Birra,Hacker Pshorr,Weisse,,,P,Lista liquori CRC; Lista liquori Star K
+Birra,Heineken,Premium Quality,,,P,Lista liquori CRC; Lista liquori Star K
+Birra,Hoegaarden,Blanche,,,P,
+Birra,Maccabee,Lager,,,P,Heksher sulla confezione
+Birra,Moretti,L'autentica,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+American Whiskey / Bourbon,Jack Daniels,Black label,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+American Whiskey / Bourbon,Jack Daniels,Gentleman Jack,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+American Whiskey / Bourbon,Jim Beam,Whiskey,,,P,
+American Whiskey / Bourbon,Jim Beam,Apple,,,P,
+American Whiskey / Bourbon,Jim Beam,Honey,,,P,
+American Whiskey / Bourbon,Jim Beam,Kentucky Fire,,OU,P,
+American Whiskey / Bourbon,Jim Beam,Maple,,OU,P,
+American Whiskey / Bourbon,Jim Beam,Red Stag Black Cherry,,OU,P,
+American Whiskey / Bourbon,Jim Beam,Red Stag Hardcore cider,,OU,P,
+American Whiskey / Bourbon,Jim Beam,Red stag Honey tea,,OU,P,
+American Whiskey / Bourbon,Jim Beam,Red stag spiced,,OU,P,
+American Whiskey / Bourbon,Jim Beam,Vanilla,,OU,P,
+American Whiskey / Bourbon,Wild Turkey,Bourbon - Unflavored,,BIR - BD'TZ Igud Rabbonim - Manchester,P,Lista liquori CRC; Lista liquori Star K
+Gin,Bombay,Original,,BIR - BD'TZ Igud Rabbonim - Manchester,P,
+Gin,Bombay,Star of Bombay,,BIR - BD'TZ Igud Rabbonim - Manchester,P,
+Gin,Bombay,Bombay Sapphire east gin,,BIR - BD'TZ Igud Rabbonim - Manchester,P,
+Gin,Bombay,Bombay Sapphire London Dry Gin,,BIR - BD'TZ Igud Rabbonim - Manchester,P,
+Gin,Gordon's,Gordon's,,OU,P,
+Gin,Gordon's,London Dry Gin,,OU,P,
+Gin,Hendrick's,Gin,,OU,P,Lista liquori CRC; Lista liquori Star K
+Whisky / Scotch,Ardbeg,10 years,,OU,P,
+Whisky / Scotch,Bushmills,Red Bush,,OU,P,Lista liquori CRC; Lista liquori Star K
+Whisky / Scotch,Chivas Regal,18,,OU,P,Lista liquori Star K
+Whisky / Scotch,Chivas Regal,25,,,P,Lista liquori Star K
+Whisky / Scotch,Chivas Regal,Brothers Blend,,,P,Lista liquori Star K
+Whisky / Scotch,Chivas Regal,12,,,P,Lista liquori Star K
+Whisky / Scotch,Glen Grant,12,,,P,Lista liquori Star K
+Whisky / Scotch,Glen Grant,10,,,P,Lista liquori Star K
+Whisky / Scotch,Glen Grant,16,,,P,Lista liquori Star K
+Whisky / Scotch,Glen Grant,170th Anniversary,,,P,Lista liquori Star K
+Whisky / Scotch,Glen Grant,The major's reserve,,,P,Lista liquori Star K
+Whisky / Scotch,Glencadam,18 yr,,,P,Lista liquori Star K
+Whisky / Scotch,Glencadam,"13 Year Old ""The Reawakening""",,,P,Lista liquori Star K
+Whisky / Scotch,Glenlivet,"25 Year Old ""The Remarkable""",,,P,
+Whisky / Scotch,Glenlivet,Founder's Reserve,,,P,
+Whisky / Scotch,Glenlivet,Nadurra 16 year old,,,P,Lista liquori CRC; Lista liquori Star K
+Whisky / Scotch,Glenmorangie,Nadurra first fill selection,,,P,Lista liquori CRC; Lista liquori Star K
+Whisky / Scotch,Glenmorangie,Orginal 10 Year Old,,,P,Lista liquori CRC; Lista liquori Star K
+Whisky / Scotch,Johnnie Walker,Astar 2008 Release,,,P,
+Whisky / Scotch,Johnnie Walker,Black label,,,P,
+Whisky / Scotch,Johnnie Walker,Blue Label,,KLBD,P,Lista liquori Star K
+Whisky / Scotch,Johnnie Walker,Double black,,KLBD,P,Lista liquori Star K
+Whisky / Scotch,Johnnie Walker,Gold label,,KLBD,P,Lista liquori Star K
+Whisky / Scotch,Johnnie Walker,Green label,,Approvato BDM / BDR,P,Lista liquori Star K
+Whisky / Scotch,Johnnie Walker,Red label,,Approvato BDM / BDR,P,Lista liquori Star K
+Whisky / Scotch,Lagavulin,12,,,P,Lista liquori Star K
+Whisky / Scotch,Laphroaig,Quarter Cask,,,P,
+Whisky / Scotch,Laphroaig,10 Year Old,,,P,
+Whisky / Scotch,Laphroaig,10 Year Old (Travel Retail),,,P,
+Whisky / Scotch,Oban,14,,,P,Lista liquori Star K
+Whisky / Scotch,Oban,18,,,P,Lista liquori Star K
+Whisky / Scotch,Suntory Toki,12 yr,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,10 years old,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,12,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,18 year old,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,25,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,30,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,57 degrees north,,,P,Lista liquori Star K
+Whisky / Scotch,Talisker,Dark storm,,,P,Lista liquori Star K
+Liquori,Branca,Fernet Branca,,Approvato BDM / BDR,P,
+Liquori,Branca,Brancamenta,,,P,
+Liquori,Cointreau,Cointreau,,KF,P,
+Liquori,Disaronno,Amaretto Disaronno,,OU,P,
+Liquori,Drambuie,Liquore al miele e erbe,,KLBD,P,Heksher sulla confezione
+Liquori,Frangelico,Liquore alla nocciola,,OU,P,
+Liquori,Jagermeister,Liquore alle erbe,,KLBD,P,Approvato da KLBD
+Liquori,Luxardo,Alcol Buon gusto,24%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Alkermes,28%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Bianco,70%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Amaretto di Saschira,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Amaro Abano,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Amaro Abano Dry,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Angioletto,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Aperitivo,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Apricot,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Aymara,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Bagna,18%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Benevento,25%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Bagna Creola,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Bitter,25%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Bitter Bianco,30%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Caffe Extra,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Caffe Santos,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Calypso,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Charlotte,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sangue Morlacco,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Cioccolato,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Espresso,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Fernet,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Fragola,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Jamaica,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Lacrime d'oro,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Lampone,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Limoncello,27%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Liquore Sant'Antonio,70%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,London Dry Gin,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Luxardo Rum Flavor,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Mambo Dry,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Mandarino,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Mandorla amara,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Maraschino,27%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Mint Liqueur,32%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Montigo Super,70%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Nocciola,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Orange Bitter,"0,27",KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Perla,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Perla Kirsch,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Raspberry,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Royal Navy Rum,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Savanha,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca & cannella,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca & caffe,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca & Cranberry,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca & Passione Nera,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca & Lampone,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca & Mela speziata,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca dei cesari,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca con cola,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca con pera,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sambuca con melograno,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sour Apple,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Sour Cherry,,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Gin,27%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Triple Sec,39%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Triple Orange,60%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Vaniglia,70%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Limoncello,80%,KLBD,P,Heksher sulla confezione
+Liquori,Luxardo,Slivovitz,27%,KLBD,P,Heksher sulla confezione
+Liquori,Pallini,Limoncello,70%,Star K,P,Heksher sulla confezione
+Liquori,Jelinek,Slivovitz,,Star K,P,Heksher sulla confezione
+Liquori,Ramazzotti,Amaro,,Euro Kosher,P,Approvato da KLBD
+Liquori,Ramazzotti,Aperitivo rosato,,Euro Kosher,P,Approvato da KLBD
+Liquori,Ramazzotti,Black,,Euro Kosher,P,Lista liquori Star K; Approvato da KLBD
+Liquori,Ramazzotti,Menta,,Euro Kosher,P,Lista liquori Star K; Approvato da KLBD
+Liquori,Ramazzotti,Sambuca,,Euro Kosher,P,Lista liquori Star K; Approvato da KLBD
+Rum,Angostura,N°1,,,P,Lista liquori CRC; Lista liquori Star K
+Rum,Angostura,Premium Reserva,,,P,Lista liquori CRC; Lista liquori Star K
+Rum,Bacardi,Carta Blanca,,OU,P,Lista liquori Star K; Approvato da KLBD
+Rum,Bacardi,Superior,,OU,P,Lista liquori Star K; Approvato da KLBD
+Rum,Bacardi,Black,,OU,P,Lista liquori Star K; Approvato da KLBD
+Rum,Bacardi,Gold,,OU,P,Lista liquori Star K; Approvato da KLBD
+Rum,Captain Morgan,Original Spice Gold,,,P,Approvato da KLBD
+Rum,Captain Morgan,White Rum,,,P,Lista liquori CRC; Approvato da KLBD
+Rum,Cruzan,Light,,,P,Lista liquori Star K
+Rum,Cruzan,Dark,,,P,Lista liquori Star K
+Rum,Pampero,Blanco,,,P,Approvato da KLBD
+Rum,Pampero,Especial,,,P,Approvato da KLBD
+Rum,Ron Abuelo,12,,,P,Lista liquori CRC; Lista liquori Star K
+Rum,Ron Abuelo,7,,,P,Lista liquori CRC; Lista liquori Star K
+Rum,Ron Abuelo,Anejo,,,P,Lista liquori CRC; Lista liquori Star K
+Rum,Ron Abuelo,Centuria,,,P,Lista liquori CRC; Lista liquori Star K
+Tequila - (Anejo; Reposado; Gold),1800,,,,P,Lista liquori Star K
+Tequila - (Anejo; Reposado; Gold),Jose Cuervo,,,,P,Lista liquori CRC; Lista liquori Star K
+Tequila - (Anejo; Reposado; Gold),Patron,,,,P,Lista liquori CRC
+Tequila - (Anejo; Reposado; Gold),Roca Patron,,,,P,Lista liquori Star K; Approvato da KLBD
+Tequila - (Anejo; Reposado; Gold),Sauza,,,,P,Lista liquori CRC; Lista liquori Star K
+"Tequila - (Blanco, Silver, White)",Jose Cuervo,Silver,,,P,Lista liquori Star K
+"Tequila - (Blanco, Silver, White)",Patron,100,,,P,Lista liquori CRC; Lista liquori Star K
+"Tequila - (Blanco, Silver, White)",Sauza,,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Apple,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Berri Acai,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Brooklyn Absolut Apeach,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Cherrys,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Citron,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Elyx,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Kurant,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Los angeles,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Mandarin,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Mango,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Oak,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Original,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Pears,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Grapefruit,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Grape,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Lime,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Hibiskus,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Vanilla,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Tropics,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Illusion,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Level vodka,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Watkin,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Tropics Grain Spirits,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Cilantro,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Raspberri,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Absolut,Ruby red,,,P,Lista liquori CRC; Lista liquori Star K; Approvato da KLBD
+Vodka,Smirnoff,Kurant,,,P,Lista liquori CRC; Approvato da KLBD
+Vodka,Smirnoff,Raw,,,P,Approvato da KLBD
+Vodka,Smirnoff,Rio Vodka,,,P,Approvato da KLBD
+Vodka,Smirnoff,Black,,,P,Approvato da KLBD
+Vodka,Smirnoff,Blue,,,P,Approvato da KLBD
+Vodka,Smirnoff,Blueberry,,,P,Approvato da KLBD
+Vodka,Smirnoff,Espresso,,,P,Approvato da KLBD
+Vodka,Smirnoff,Gold,,,P,Approvato da KLBD
+Vodka,Smirnoff,Cinnamon,,,P,Approvato da KLBD
+Vodka,Smirnoff,Lime,,,P,Approvato da KLBD
+Vodka,Smirnoff,Norsk,,,P,Approvato da KLBD
+Vodka,Smirnoff,Penka,,,P,Approvato da KLBD
+Vodka,Smirnoff,Red,,,P,Approvato da KLBD
+Vodka,Smirnoff,Vanilla,,,P,Approvato da KLBD
+Vodka,Smirnoff,Penka,,,P,Approvato da KLBD
+Vodka,Stolichnaya,Stolichnaya,,OU,P,Lista liquori CRC; Approvato da KLBD
+Vodka,Stolichnaya,Imported Russia,,OU,P,Lista liquori CRC; Approvato da KLBD
+Vodka,Stolichnaya,Imported Premium Vodka,,,P,Lista liquori CRC; Approvato da KLBD
+Vodka,Stolichnaya,Stolichnaya Gold Vodka,,,P,Lista liquori CRC; Approvato da KLBD
+Farina 00,Molino Chiavazza,Farina di Grano Tenero 00,1 kg,1K,P,
+Farina 00,Molino Grassi,Farina 00 - Pasta Fresca,1 kg,Star K,P,
+Farina 00,Molino Grassi,Farina 00 - Pizza e Focaccia,1 kg,Star K,P,
+Farina 00,Molino Grassi,Farina 00 - Torte e Biscotti,1 kg,Star K,P,
+Farina 00,Molino Grassi,Farina 00 - Manitoba,1 kg,Star K,P,
+Farina 00,Molino Pagani,Farina di Grano Tenero 00,Tutti i formati,1K,P,
+Farina 00,Molino Spadoni,Farina 00,,BD'TZ Bet Yossef,P,Heksher sulla confezione
+Farina grano duro / Semola,Agribosco,Farina di Grano Duro bio,0.5 kg,OU,P,Heksher sulla confezione
+Farina grano duro / Semola,De Cecco,Semola Rimacinata di Grano Duro,1 kg,OU,P,
+Farina grano duro / Semola,La Molisana,Semola Integrale Rimacinata,1 kg,OU,P,
+Farina grano duro / Semola,Molino Grassi,Semola per Pasta,1 kg,Star K,P,
+Farina grano duro / Semola,Molino Grassi,Semola Rimacinata per Pane,1 kg,Star K,P,
+Farina grano duro / Semola,Molino Rachello,Senatore Cappelli Bio - Farina di Grano Duro,0.5 kg,Star K,P,
+Farina di frumento speciale,Molino Grassi,Farina di Frumento Tenero - Manitoba,1 kg,Star K,P,
+Farina di frumento speciale,Molino Grassi,Farina Khorasan - Kamut,1 kg,Star K,P,
+Farina di frumento speciale,Molino Grassi,Preparato per focaccia ligure,,Star K,P,Heksher sulla confezione
+Farina di frumento speciale,Molino Grassi,qb - kamut,,Star K,P,Heksher sulla confezione
+Farina di frumento speciale,Molino Grassi,qb - miracolo - farina integrale,,Star K,P,Heksher sulla confezione
+Farina di frumento speciale,Molino Grassi,qb - miracolo - farina tipo 1,,Star K,P,Heksher sulla confezione
+Farina di frumento speciale,Molino Grassi,qb - multicereali,0.5 kg,Star K,P,Heksher sulla confezione
+Farina di frumento speciale,Molino Rachello,Farina Kamut,,Star K,P,
+Farina di frumento speciale,Molino Spadoni,Farina Tipo 1,,BD'TZ Bet Yossef,P,Heksher sulla confezione
+Farina di frumento speciale,Molino Spadoni,Farina Tipo 2,,BD'TZ Bet Yossef,P,Heksher sulla confezione
+Farina di cereali e legumi,Agribosco,Farina di Farro,0.5 kg,OU,P,
+Farina di cereali e legumi,Agribosco,Farina Integrale di Avena,0.5 kg,OU,P,
+Farina di cereali e legumi,Agribosco,Farina Integrale di Ceci bio,0.5 kg,OU,P,
+Farina di cereali e legumi,Agribosco,Farina Integrale di Grano Saraceno,0.5 kg,OU,P,
+Farina di cereali e legumi,Agribosco,Farina Integrale di Miglio,0.5 kg,OU,P,
+Farina di cereali e legumi,Agribosco,Farina Integrale di Orzo,0.5 kg,OU,P,
+Farina di cereali e legumi,Bioalimenta,Farina di Riso,Tutti i formati,OU,P,
+Farina di cereali e legumi,Molino Filippini,Farina di Grano Saraceno,"0.5 kg, 1 kg",Euro Kosher,P,
+Farina di cereali e legumi,Molino Grassi,Farina di Farro,1 kg,Star K,P,
+Farina di cereali e legumi,Molino Merano,Farina di Amaranto,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Avena,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Ceci,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Grano saraceno,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Orzo,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Segale,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Spelta,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina di Teff,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Farina Khorasan Kamut,,Euro Kosher,P,
+Farina di cereali e legumi,Molino Merano,Lievito madre di Farina di grano o spelta,,Euro Kosher,P,
+Farina di cereali per polenta,Bioalimenta,"Farabella, Farina di Mais",Tutti i formati,OU,P,
+Farina di cereali per polenta,La Grande Ruota,Polenta Fioretto,Tutti i formati,Approvato BDM / BDR,P,
+Farina di cereali per polenta,La Grande Ruota,Polenta Bramata Bio,Tutti i formati,Approvato BDM / BDR,P,
+Farina di cereali per polenta,Molino di Ferro,Farina di Mais,Tutti i formati,BD'TZ Bet Yossef,P,
+Farina di cereali per polenta,Molino Filippini,Farina di Mais Bramata,1 kg,Euro Kosher,P,
+Farina di cereali per polenta,Molino Filippini,Farina di Mais Integrale,1 kg,Euro Kosher,P,
+Farina di cereali per polenta,Molino Filippini,Farina per Polenta Taragna,1 kg,Euro Kosher,P,
+Farina di cereali per polenta,Polenta Valsugana,Farina di Mais Integrale,Tutti i formati,Approvato BDM / BDR,P,
+Pasta di semola,Barilla,Pasta,Tutti i formati,Approvato BDM / BDR,P,
+Pasta di semola,Dalla Costa,Pasta,Tutti i formati,OK,P,
+Pasta di semola,De Cecco,"Pasta; Pasta con spinaci; Pasta tricolore; Pasta 7 grani, Pasta kamut",Tutti i formati,KF,P,Yashan
+Pasta di semola,Delverde,Pasta,Tutti i formati - Tranne aromatizzata al peperoncino,Star K,P,Prodotta negli stabilimenti di Corticella of Corte De' Frati o Newlat Food Sansepolcro
+Pasta di semola,Felicetti,"Monograno; grano duro, semola, Pasta kamut",Tutti i formati,OK,P,
+Pasta di semola,Garofalo,Pasta,Tutti i formati,OU,P,
+Pasta di semola,La molisana,Pasta,Tutti i formati,OU,P,Heksher sulla confezione
+Pasta di semola,Lensi,Pasta; Pasta tricolore;,Tutti i formati,OU,P,
+Pasta di semola,Pasta di Camerino,Pasta,,Bet Din Roma,P,Yashan Anche a marchio Maccari e Sibillina
+Pasta di semola,Pastiﬁcio Liguori,Pasta; Pasta tricolore,,Approvato BDM / BDR,P,
+Pasta di semola,Rummo,Pasta,Tutti i formati,KF,P,Yashan
+Pasta di semola,Sgambaro / Pasta Jolly,Pasta,,Star K,P,
+Pasta di semola,Todis - Cuore Mediterraneo 100% ITA,Pasta,,Approvato BDM / BDR,P,Prodotto da Valdigrano nello stabilimento via Borsellino 35/37 - Rovato (BS)
+Pasta all'uovo,Barilla,Pasta all'Uovo,,Approvato BDM / BDR,P,
+Pasta all'uovo,De Cecco,Pasta all'Uovo,Tutti i formati,KF,P,Yashan
+Pasta all'uovo,Delverde,Pasta all'Uovo,,Star K,P,
+Pasta all'uovo,Felicetti,Pasta all'Uovo,,OK,P,
+Pasta all'uovo,La molisana,Pasta all'Uovo,,OU,P,
+Pasta all'uovo,Pasta di Camerino,Pasta all'uovo,,Bet Din Roma,P,Heksher sulla confezione
+Pasta integrale,De Cecco,Pasta Integrale,,KF,P,Yashan
+Pasta integrale,Garofalo,Pasta Integrale,,OU,P,
+Pasta integrale,La Molisana,Pasta Integrale,,OU,P,Heksher sulla confezione
+Pasta integrale,Pasta di Camerino - Hammurabi,Pasta Integrale - cereali antichi,,Bet Din Roma,P,Heksher sulla confezione
+Pasta integrale,Rummo,Pasta Integrale,,KF,P,Yashan
+Pasta senza glutine,Barilla,Pasta senza Glutine,,Approvato BDM / BDR,P,
+Pasta senza glutine,Farabella,Pasta senza Glutine,,OU,P,Heksher sulla confezione
+Pasta senza glutine,Garofalo,Pasta senza Glutine,,OU,P,
+Pasta senza glutine,Molino di Ferro,Pasta senza Glutine,,BD'TZ Bet Yossef,P,Heksher sulla confezione
+Pasta senza glutine,Rummo,Pasta senza Glutine,,KF,P,
+Gnocchi di patate,Farabella,Gnocchi di Patate con Mais,,OU,P,Heksher sulla confezione
+Gnocchi di patate,Farabella,Gnocchi di Patate con Riso,,OU,P,Heksher sulla confezione
+Gnocchi di patate,Farabella,Gnocchi di Patate con Grano Saraceno,,OU,P,Heksher sulla confezione
+Gnocchi di patate,Farabella,Perle di Patate,,OU,P,Heksher sulla confezione
+Gnocchi di patate,Farabella,Perle di Patate con Grano Saraceno,,OU,P,Heksher sulla confezione
+Gnocchi di patate,Farabella,Perle di Patate con Mais,,OU,P,Heksher sulla confezione
+Gnocchi di patate,La Molisana,Gnocchi di patata,500 gr,1K,P,Heksher sulla confezione
+Riso,Scotti,Minestre,,OU,P,
+Riso,Scotti,Non Scuoce,,OU,P,
+Riso,Scotti,Originario,,OU,P,
+Riso,Scotti,Oro,,OU,P,
+Riso,Scotti,Parboiled,,OU,P,
+Riso,Scotti,Padano,,OU,P,
+Riso,Scotti,Risaia,,OU,P,
+Riso,Scotti,Riso Biologico,,OU,P,
+Riso,Scotti,Riso Integrale,,OU,P,
+Riso,Scotti,Risotto,,OU,P,
+Riso,Scotti,Roma,,OU,P,
+Riso,Scotti,Thai,,OU,P,
+Riso,Scotti,Vialone Nano,,OU,P,
+Riso,Scotti,Arborio,,OU,P,
+Riso,Scotti,Basmati,,OU,P,
+Riso,Scotti,Arroz,,OU,P,
+Riso,Riso Gallo,Blond,,Euro Kosher,P,
+Riso,Riso Gallo,Integrale - Parboiled,,Euro Kosher,P,
+Riso,Riso Gallo,Blond Risotti - Parboiled,,Euro Kosher,P,
+Riso,Riso Gallo,Carnaroli,,Euro Kosher,P,
+Riso,Riso Gallo,Originario,,Euro Kosher,P,
+Riso,Riso Gallo,Riso Venere,,Euro Kosher,P,
+Riso,Riso Gallo,Parboiled,,Euro Kosher,P,
+Riso,Riso Gallo,Roma,,Euro Kosher,P,
+Riso,Riso Gallo,Thaibonnet - Parboiled,,Euro Kosher,P,
+Riso,Riso Gallo,Tre Cereali - riso orzo farro,,Euro Kosher,P,
+Riso,Riso Gallo,Vialone Nano,,Euro Kosher,P,
+Riso,Curtiriso,Riso Carnaroli,,OU,P,
+Riso,Curtiriso,Riso,,OU,P,
+Riso,Riseria Campanini,Riso,,Star K,P,"Anche a marchio Didonato, Riso di Molinella"
+Riso,Riso Grandi,Riso,,Star K,P,
+Riso,Riso Principe,Arborio,,OU,P,
+Riso,Riso Principe,Baldo,,OU,P,
+Riso,Riso Principe,Carnaroli,,OU,P,
+Riso,Riso Principe,Originario,,OU,P,
+Riso,Riso Principe,Padano,,OU,P,
+Riso,Riso Principe,Parboiled,,OU,P,
+Riso,Riso Principe,Ribe,,OU,P,
+Riso,Riso Principe,Roma,,OU,P,
+Riso,Riso Principe,Thaibonnet,,OU,P,
+Riso,Riso Principe,Vialone Nano,,OU,P,
+Riso,Riso Vignola,Arborio,,OU,P,
+Riso,Riso Vignola,Baldo,,OU,P,
+Riso,Riso Vignola,Carnaroli,,OU,P,
+Riso,Riso Vignola,Parboiled,,OU,P,
+Riso,Riso Vignola,Ribe/Indica,,OU,P,
+Riso,Riso Vignola,Riso Integrale,,OU,P,
+Riso,Riso Vignola,Riso Venere,,OU,P,
+Riso,Riso Vignola,Roma,,OU,P,
+Olio Extra Vergine,Basso,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Bertolli,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Carapelli,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Clemente,Olio Extra Vergine Oliva,,Euro Kosher,P,
+Olio Extra Vergine,Colavita,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Coppini,Olio Extra Vergine Oliva,,Euro Kosher,P,
+Olio Extra Vergine,Costa d'oro,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,De Cecco,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Farchioni,Olio Extra Vergine Oliva,,Euro Kosher,P,
+Olio Extra Vergine,Fratelli Carli,Olio Extra Vergine Oliva,,Euro Kosher,P,
+Olio Extra Vergine,Fratelli Mantova,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Levante,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Luglio,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Monini,Olio Extra Vergine Oliva,,Euro Kosher,P,
+Olio Extra Vergine,Olidì,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Olitalia / Varie Marche,Olio Extra Vergine Oliva,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Meucci 22/a, Forlì"
+Olio Extra Vergine,Pantaleo,Olio Extra Vergine Oliva,,Euro Kosher,P,
+Olio Extra Vergine,Pietro Coricelli,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Salvadori,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Cirio Costanza,Olio Extra Vergine Oliva,,OU,P,
+Olio Extra Vergine,Zucchi / Varie Marche,Olio Extra Vergine Oliva,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Acquaviva, Cremona"
+Olio di oliva,Zucchi / Varie Marche,Olio di Oliva,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Acquaviva, Cremona"
+Olio di semi,Basso,Olio di Girasole,,OU,P,
+Olio di semi,Coppini,Olio di Girasole,,Euro Kosher,P,
+Olio di semi,Coricelli,Olio di Girasole,,OU,P,
+Olio di semi,Costa d'oro,Olio di Girasole,,OU,P,
+Olio di semi,Levante,Olio di Girasole,,Euro Kosher,P,
+Olio di semi,Luglio,Olio di Girasole,,Euro Kosher,P,
+Olio di semi,Olidì,Olio di Girasole,,OU,P,
+Olio di semi,Olitalia / Varie marche,Olio di Girasole,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Meucci 22/a, Forlì"
+Olio di semi,Sagra,Olio di Girasole,,OU,P,
+Olio di semi,Salvadori,Olio di Girasole,,OU,P,
+Olio di semi,Todis - Gran Aroma,Olio di Girasole,,OU,P,"Prodotto da Zucchi stabilimento di Via Acquaviva, Cremona"
+Olio di semi,Zucchi,Olio di Girasole,,Approvato BDM / BDR,P,
+Olio di semi,Basso,Olio di Arachide,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Acquaviva, Cremona"
+Olio di semi,Olitalia / Varie marche,Olio di Arachide,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Meucci 22/a, Forlì"
+Olio di semi,Sagra,Olio di Arachide,,OU,P,
+Olio di semi,Basso,Olio di Mais,,OU,P,
+Olio di semi,Olitalia / Varie marche,Olio di Mais,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Meucci 22/a, Forlì"
+Olio di semi,Sagra,Olio di Mais,,OU,P,
+Olio di semi,Todis - Gran Aroma,Olio di Mais,,Approvato BDM / BDR,P,"Prodotto da Zucchi stabilimento di Via Acquaviva, Cremona"
+Olio di semi,Zucchi / Varie marche,Olio di Mais,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Acquaviva, Cremona"
+Olio di semi,Basso,Olio di Sansa,,OU,P,
+Olio di semi,Coricelli,Olio di Sansa,,OU,P,
+Olio di semi,Costa d'oro,Olio di Sansa,,OU,P,
+Olio di semi,Levante,Olio di Sansa,,Euro Kosher,P,
+Olio di semi,Olitalia / Varie marche,Olio di Sansa,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Meucci 22/a, Forlì"
+Olio di semi,Salvadori,Olio di Sansa,,OU,P,
+Olio di semi,Zucchi,Olio di Sansa,,OU,P,"Kasher anche altre marche prodotte nello stabilimento di Via Acquaviva, Cremona"
+Olio di semi,Basso,Olio di Soia,,OU,P,
+Maionese,Thomy,Maionese - Mayonnaise à la Francaise,Tubetto 256 gr,Maor Hakashrut - Rav M. I. Levinger - Basel,P,Prodotta in Svizzera
+Panna vegetale da cucina,Alpro,Rice Cusine,,"BD""TZ Shomrei Hadat - Anversa",P,Il lotto deve iniziare con due lettere fra queste: A;B;C;D;E; F;G;H
+Panna vegetale da cucina,Alpro,Alpro Soya Product for cooking/Cuisine,,"BD""TZ Shomrei Hadat - Anversa",P,Il lotto deve iniziare con due lettere fra queste: A;B;C;D;E; F;G;H
+Panna vegetale da cucina,Alpro,Culinary Alpro Soya Product for cooking/Light,,"BD""TZ Shomrei Hadat - Anversa",P,Il lotto deve iniziare con due lettere fra queste: A;B;C;D;E; F;G;H
+Panna vegetale da cucina,Alpro,Coconut Cusine,,"BD""TZ Shomrei Hadat - Anversa",P,Il lotto deve iniziare con due lettere fra queste: A;B;C;D;E; F;G;H
+Panna vegetale da cucina,Mister Martini,Monnalisa - panna vegetale per pasticceria,200 ml,OU,P,
+Panna vegetale da cucina,Orasì,Soia da cucina,200 ml,OU,P,
+Panna vegetale da cucina,The Bridge / Viamia,Coconut Cusine,200 ml,KLBD,P,
+Panna vegetale da cucina,The Bridge / Viamia,Avena Cusine,200 ml,KLBD,P,
+Panna vegetale da cucina,The Bridge / Viamia,Riso Cusine,,KLBD,P,
+Panna vegetale da cucina,The Bridge / Viamia,Soya Cusine,,KLBD,P,
+Salsa BBQ,Hp,The Original HP Sauce,Bottiglia di Vetro 225 gr,MK - Manchester Bet Din,P,Heksher sulla confezione
+Salsa BBQ,Sweet Baby ray's,Honey barbecue sauce,,OU,P,Heksher sulla confezione
+Salsa BBQ,Sweet Baby ray's,Barbecue sauce,,OU,P,Heksher sulla confezione
+Biscotti,Loacker,Biscuit Mandorla,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Chip Choc,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Biscuit - Burro di arachidi,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Biscuit - Snowflakes,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Alpine milk,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Cannella,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Cocoa e Milk,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Cremkakao,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Double Choc,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Pan di Zenzero,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Lemon,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Napolitaner,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Peanut butter,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic - Vanille,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Classic Mini mix,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Gardena - Chocolate,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Gardena - Hazelnut,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Gardena - Peanut butter,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Loackini Dark,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Loackini Milk,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Maxi Cremkakao,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Maxi Hazelnut,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Maxi - Napolitaner,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Maxi - Vanille,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Multigrain Chocolate,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Multigrain Hazelnut,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Patisserie - Cappuccino,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Patisserie - Creme noisette,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Patisserie - Noir Orange,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Patisserie - Coconut,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Patisserie - White Coconut,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Quadratini - Tiramisù,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Quadratini - Vanille,"200 gr, 400 gr",Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Mirtillo nero e yogurt,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Dark Chocolate,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Espresso,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Matcha,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Napolitaner,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Lampone e yogurt,,Approvato BDM / BDR,L,
+Biscotti,Loacker,Thins - Espresso,,Approvato BDM / BDR,L,
+Biscotti,Laurieri,Limoncelli,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Biscotti Nocciolato,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Biscotti all'Arancio,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Amaretti,Vari aromi,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Cantucci,Vari aromi,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Ciokkini,Vari aromi,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frollini,Vari aromi,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frolletti,Vari aromi,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Cantucci Mandorle,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Cantucci Cioccolato,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Cantucci Gocce di Cioccolato,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Cantucci Limone,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frolletti Gocce di Cioccolato,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Ciocchini Nocciole e Cioccolato,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frolletti al Limone,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frolletti Cacao,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frolletti Cocco,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frolletti Cranberry e Sesamo,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frollino Nocciole e Cioccolato,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frollini Miele,,OU,P,Heksher sulla confezione
+Biscotti,Laurieri,Frollino Tradizionale,,OU,P,Heksher sulla confezione
+Biscotti,Lago,Poker - Wafer Limone,,Approvato BDM / BDR,L,
+Biscotti,Lago,Poker - Wafer Vaniglia,,Approvato BDM / BDR,L,
+Biscotti,Lago,Roll Break - Cappuccino,,Approvato BDM / BDR,L,
+Biscotti,Lago,Roll Break - Nocciola,,Approvato BDM / BDR,L,
+Biscotti,Lago,Roll Break - Latte,,Approvato BDM / BDR,L,
+Biscotti,Lago,Roll Break - Fragola,,Approvato BDM / BDR,L,
+Cereali da colazione,Kellogg's,All Bran,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Coco Pops,,MK - Manchester Bet Din,P,
+Cereali da colazione,Kellogg's,Coco Pops - White choc,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Corn Flakes,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Extra - Original,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Extra - Frutta e frutta secca,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Extra - Frutti rossi,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Extra - Cioccolato e nocciole,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Extra - Cioccolato al latte,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Frosties,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Froot Loops,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Miel Pops,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Rice Krispies,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Special K,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Special K - cioccolato,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Special K - frutti rossi,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,Unicorn Froot Loops,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,W.K. Kellogg Granola Senza zuccheri agg - Frutta secca,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,W.K. Kellogg - Bio Cereali integrali Choco,,NWK - North West Kosher,L,Heksher sulla confezione
+Cereali da colazione,Kellogg's,W.K. Kellogg - Bio Cereali integrali,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,W.K. Kellogg - Senza zuccheri aggiunti - Lamponi Mela Carota,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cereali da colazione,Kellogg's,W.K. Kellogg - Senza zuccheri aggiunti - Cacao e Nocciola,,MK - Manchester Bet Din,P,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato Fondente 70%,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato Fondente 85%,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato Fondente,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato Fondente con Mandorle,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato Fondente all'Arancia,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato al Latte,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Perugina,Cioccolato al Latte con Mandorle,Tavolette,OU D,L,Heksher sulla confezione
+Cioccolato,Luigi Zaini,Emilia - Cioccolato Fondente,Tavolette,OK D,L,Heksher sulla confezione
+Cioccolato,Luigi Zaini,Emilia - Cioccolato Extra Fondente 70%,Tavolette,OK D,L,Heksher sulla confezione
+Cioccolato,Luigi Zaini,Emilia - Cioccolato al Latte,Tavolette,OK D,L,Heksher sulla confezione
+Cioccolato,Luigi Zaini,Emilia - Cioccolato Bianco,Tavolette,OK D,L,Heksher sulla confezione
+Cioccolato,Maama,Cioccolato Fondente Extra,Tavolette,rav A. Locci,P,Heksher sulla confezione
+Cioccolato,Loacker,Specialty napolitaner,,Approvato BDM / BDR,L,
+Cioccolato,Loacker,Specialty lampone e yogurt,,Approvato BDM / BDR,L,
+Cioccolato,Loacker,Specialty white cream,,Approvato BDM / BDR,L,
+Conserve vegetali,Machandel,Barbabietole in agrodolce,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Cavolo rosso in agrodolce,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Cetrioli,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Cipolline in agrodolce,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Crauti,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Fagiolini spezzati,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Fave,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Funghi champignon,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Germogli di Soya,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Mais dolce,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Misto verdure al naturale,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Misto verdure messicano,,OU,P,Heksher sulla confezione
+Conserve vegetali,Machandel,Piselli,,OU,P,Heksher sulla confezione
+Olive,Alisa,Olive Nere,,OU,P,Heksher sulla Confezione
+Olive,Alisa,Olive Verdi,,OU,P,Heksher sulla Confezione
+Olive,Ficacci,Olive Nere al Forno,,1K,P,Heksher sulla Confezione
+Olive,Ficacci,Olive Marinate in Olio di Girasole,,1K,P,Heksher sulla Confezione
+Olive,Ficacci,Olive Condite con Olio di Girasole,,1K,P,Heksher sulla Confezione
+Olive,Ficacci,Olive in Salamoia,,1K,P,Heksher sulla Confezione
+Olive,Madama Oliva,Olive verdi Nocellara,,Euro Kosher,P,
+Olive,Madama Oliva,Olive Castelvetrano denocciolate,,OK,P,
+Cacao,Agostoni,Dutch Cocoa powder,,OK,P,
+Cacao,Luigi Zaini,"Emilia, Cacao in polvere",,OK D,L,
+Cacao,Van Houten,Cacao,,OK,P,
+Cacao,Holland Supreme,"Cocoa Selection, Varie Marche",,OU,P,
+Caffè,Bonomi,Caffè macinato,,Bet Din Milano,P,
+Caffè,Bonomi,Caffè in grani,,Bet Din Milano,P,
+Caffè,Caffè Vergnano,Caffè Macinato,,Euro Kosher,P,
+Caffè,Caffè Vergnano,Caffè in grani,,Euro Kosher,P,
+Caffè,Caffè Vergnano,Capsule e Cialde,,Euro Kosher,P,
+Caffè,Illy,Caffè macinato,,OU,P,
+Caffè,Illy,Caffè in grani,,OU,P,
+Caffè,Illy,Caffè Decaffeinato,,OU,P,
+Caffè,Illy,Capsule,,OU,P,
+Caffè,Lavazza,Caffè macinato,,OU,P,
+Caffè,Lavazza,Caffè Decaffeinato,,OU,P,
+Caffè,Nespresso,Capsule,,Rabbanut di Basilea (CH),P,
+Caffè,Pellini,Caffè,,OU,P,Heksher sulla confezione
+Caffè,Pellini,Cialde,,OU,P,Heksher sulla confezione
+Caffè,Segafredo,Caffè macinato,,OU,P,
+Legumi Precotti,Bioitalia,Ceci,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli borlotti,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli cannellini,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli red kidney,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Lenticchie,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli adzuki,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli occhio nero,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli neri,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Fagioli bianchi di Spagna,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Mix di legumi,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Bioitalia,Piselli,,KLBD,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Ceci,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Fagioli azuki rossi,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Fagioli bianchi,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Fagioli borlotti,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Fagioli di lupino,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Fagioli rossi,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Legumi misti,,OU,P,Heksher sulla confezione
+Legumi Precotti,Machandel,Lenticchie,,OU,P,Heksher sulla confezione
+Legumi Precotti,Valfrutta,Ceci,,Euro Kosher,P,
+Legumi Precotti,Valle del Cilento - Rispoli,Borlotti,,Euro Kosher,P,
+Legumi Precotti,Valle del Cilento - Rispoli,Ceci,,Euro Kosher,P,
+Legumi Precotti,Valle del Cilento - Rispoli,Cannellini,,Euro Kosher,P,
+Legumi Precotti,Valle del Cilento - Rispoli,Piselli,,Euro Kosher,P,
+Legumi Precotti,Valle del Cilento - Rispoli,Lenticchie,,Euro Kosher,P,
+Legumi Precotti,Valle del Cilento - Rispoli,Fagioli rossi,,Euro Kosher,P,
