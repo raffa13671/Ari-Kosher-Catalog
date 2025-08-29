@@ -1,0 +1,1 @@
+Built static site in _site; deploy _site contents to Netlify or GitHub Pages. QA rows excluded.

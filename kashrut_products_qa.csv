@@ -1,0 +1,1641 @@
+page,brand,product_name,format,hechsher,status,lot_rule,raw_row,ambiguous,qa_reasons
+3,,Acquanaturale 6 Pastadiriso 39,,,,,Acquanaturale 6 Pastadiriso 39,yes,no_hechsher;no_brand
+3,,Infusi 7 Pasta / gnocchi 41,,,,,Infusi 7 Pasta / gnocchi 41,yes,no_hechsher;no_brand
+3,,Succhidifrutta 7 Pastadisemola 41,,,,,Succhidifrutta 7 Pastadisemola 41,yes,no_hechsher;no_brand
+3,,Tefreddo 7 Pastaall’uovo 41,,,,,Tefreddo 7 Pastaall’uovo 41,yes,no_hechsher;no_brand
+3,,Sciroppiepreparati 10 Pastaintegrale 42,,,,,Sciroppiepreparati 10 Pastaintegrale 42,yes,no_hechsher;no_brand
+3,,Sciroppi 10 Pastasenzaglutine 42,,,,,Sciroppi 10 Pastasenzaglutine 42,yes,no_hechsher;no_brand
+3,,Latteesurrogati 11 Pastaspeciale 42,,,,,Latteesurrogati 11 Pastaspeciale 42,yes,no_hechsher;no_brand
+3,,Quinoa 13 Pannavegetaledacucina 49,,,,,Quinoa 13 Pannavegetaledacucina 49,yes,no_hechsher;no_brand
+3,,Riso 13 SalsaBBQ 49,,,,,Riso 13 SalsaBBQ 49,yes,no_hechsher;no_brand
+3,,Soya 14 Salsasoia 50,,,,,Soya 14 Salsasoia 50,yes,no_hechsher;no_brand
+3,,Spelta 16 Salseecondimenti 50,,,,,Spelta 16 Salseecondimenti 50,yes,no_hechsher;no_brand
+3,,AmericanWhiskey/Bourbon 17 Salmone 51,,,,,AmericanWhiskey/Bourbon 17 Salmone 51,yes,no_hechsher;no_brand
+3,,Whisky/Scotch 19 Vegetaliinscatola 52,,,,,Whisky/Scotch 19 Vegetaliinscatola 52,yes,no_hechsher;no_brand
+3,,Tequila 24 Pomodoroederivati 54,,,,,Tequila 24 Pomodoroederivati 54,yes,no_hechsher;no_brand
+3,,2-Alimentari Passatadipomodoro 54,,,,,2-Alimentari Passatadipomodoro 54,yes,no_hechsher;no_brand
+3,,Farina 28 Pelati 56,,,,,Farina 28 Pelati 56,yes,no_hechsher;no_brand
+3,,Farina00 28 Polpadipomodoro 56,,,,,Farina00 28 Polpadipomodoro 56,yes,no_hechsher;no_brand
+3,,Farinadigranoduro/Semola 28 Salsapronta 57,,,,,Farinadigranoduro/Semola 28 Salsapronta 57,yes,no_hechsher;no_brand
+3,,"Farinadifrumentospeciale 28 Sale,spezieezucchero 58",,,,,"Farinadifrumentospeciale 28 Sale,spezieezucchero 58",yes,no_hechsher;no_brand
+3,,Cerealielegumilavorati 30 Salealimentare 58,,,,,Cerealielegumilavorati 30 Salealimentare 58,yes,no_hechsher;no_brand
+3,,Farinacerealielegumi 30 Salearomatico 58,,,,,Farinacerealielegumi 30 Salearomatico 58,yes,no_hechsher;no_brand
+3,,Farinadicerealiperpolenta 31 Spezie 58,,,,,Farinadicerealiperpolenta 31 Spezie 58,yes,no_hechsher;no_brand
+3,,"Pastadifarro 32 Cacao,caffè,tèetisane 60",,,,,"Pastadifarro 32 Cacao,caffè,tèetisane 60",yes,no_hechsher;no_brand
+3,,"Pastadilegumi,specialitàalimentari 32 Cacao 60",,,,,"Pastadilegumi,specialitàalimentari 32 Cacao 60",yes,no_hechsher;no_brand
+4,,Cerealidacolazione 70 Pureadifrutta 91,,,,,Cerealidacolazione 70 Pureadifrutta 91,yes,no_hechsher;no_brand
+4,,Fettebiscottate/crackers/crostini 72 3 - Surgelati,,,,,Fettebiscottate/crackers/crostini 72 3 - Surgelati,yes,no_hechsher;no_brand
+5,,Pat Israèl prodotto cotto con la partecipazione di un ebreo. Se non segnalato i prodotti non sono Pat,,,,,Pat Israèl prodotto cotto con la partecipazione di un ebreo. Se non segnalato i prodotti non sono Pat,yes,no_hechsher;no_brand
+5,,prodotti ittici neutri. Segnalazione dovuta al divieto rabbinicodiconsumarecontemporaneamente,,,Pesce,,Pesce prodotti ittici neutri. Segnalazione dovuta al divieto rabbinicodiconsumarecontemporaneamente,yes,no_hechsher;no_brand
+6,Tavina,|,,"OU,P",,,| Acquagassata | Tavina |  |  | OU | P |,yes,short_product
+6,Rocchetta,|,,"OU,P",,,| Acquanaturale | Rocchetta |  |  | OU | P |,yes,short_product
+6,Uliveto,|,,"OU,P",,,| Acquanaturale | Uliveto |  |  | OU | P |,yes,short_product
+6,Tavina,|,,"OU,P",,,| Acquanaturale | Tavina |  |  | OU | P |,yes,short_product
+6,Ferrarelle,|,,"OU,P",,,| Acquanaturale | Ferrarelle |  |  | OU | P |,yes,short_product
+25,,|,,,,,"| Silver,
+White) |  |  |  |  |  |",yes,short_product;no_hechsher;no_brand
+41,"Sgambaro/
+PastaJolly",Pasta StarK Yashan,,,,,"| Pastadisemola | Sgambaro/
+PastaJolly | Pasta |  | StarK |  | Yashan",yes,no_hechsher
+51,Smeralda,Bottargaintera BetDinRoma PPesce |,,,,,"| Bottargadi
+muggine | Smeralda | Bottargaintera |  | BetDinRoma | PPesce |",yes,no_hechsher
+51,LaPeonia,Bottargaintera BetDinRoma PPesce |,,,,,"| Bottargadi
+muggine | LaPeonia | Bottargaintera |  | BetDinRoma | PPesce |",yes,no_hechsher
+51,"Sarda
+Affumicati",Bottargaintera BetDinRoma PPesce |,,,,,"| Bottargadi
+muggine | Sarda
+Affumicati | Bottargaintera |  | BetDinRoma | PPesce |",yes,no_hechsher
+51,BlueMarlin,Bottargaintera BetDinRoma PPesce |,,,,,"| Bottargadi
+muggine | BlueMarlin | Bottargaintera |  | BetDinRoma | PPesce |",yes,no_hechsher
+51,BlueMarlin,"Bottarga
+macinata BetDinRoma PPesce |",,,,,"| Bottargadi
+muggine | BlueMarlin | Bottarga
+macinata |  | BetDinRoma | PPesce |",yes,no_hechsher
+51,Grants,"Scottish
+monarch-
+Scottishsalmon MK-
+Manchester
+BetDin PPesce Hekhshèrsulla
+confezione",,,,,"| Salmone | Grants | Scottish
+monarch-
+Scottishsalmon |  | MK-
+Manchester
+BetDin | PPesce | Hekhshèrsulla
+confezione",yes,no_hechsher
+51,SalSeafood,"Salmone
+Affumicato
+Norvegese Rabbinato
+Ortodosso
+Norvegese PPesce Hekhshèrsulla
+confezione",100gr,,,,"| Salmone | SalSeafood | Salmone
+Affumicato
+Norvegese | 100gr | Rabbinato
+Ortodosso
+Norvegese | PPesce | Hekhshèrsulla
+confezione",yes,no_hechsher
+51,SalSeafood,"Salmone
+Affumicato
+Scozzese ,50
+gr BetDinLeeds PPesce Hekhshèrsulla
+confezione",100gr,,,,"| Salmone | SalSeafood | Salmone
+Affumicato
+Scozzese | 100gr,50
+gr | BetDinLeeds | PPesce | Hekhshèrsulla
+confezione",yes,no_hechsher
+51,JohnRossJr.,"Scottish
+smokedSalmon MK-
+Manchester
+BetDin PPesce Hekhshèrsulla
+confezione",,,,,"| Salmone | JohnRossJr. | Scottish
+smokedSalmon |  | MK-
+Manchester
+BetDin | PPesce | Hekhshèrsulla
+confezione",yes,no_hechsher
+60,LuigiZaini,"Emilia,Cacao
+inpolvere OKD L |",,,,,"| Cacao | LuigiZaini | Emilia,Cacao
+inpolvere |  | OKD | L |",yes,no_hechsher
+63,Balconi,"WaferCacao OUD L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Balconi | WaferCacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Balconi,"Wafer
+Nocciola OUD L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Balconi | Wafer
+Nocciola |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Balconi,"WaferVaniglia OUD L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Balconi | WaferVaniglia |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Amaretti
+agrumati StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Amaretti
+agrumati |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Amaretti
+classici StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Amaretti
+classici |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Amaretto
+goccedi
+cioccolato StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Amaretto
+goccedi
+cioccolato |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Amaretto
+pistacchio StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Amaretto
+pistacchio |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Cantucci
+cioccolato
+fondente StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Cantucci
+cioccolato
+fondente |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Cantucci
+mandorle StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Cantucci
+mandorle |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Cantucci
+mandorlee
+caffe StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Cantucci
+mandorlee
+caffe |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Cantucci
+mirtillirossi StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Cantucci
+mirtillirossi |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Cantuccinoci
+ealbicocche StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Cantuccinoci
+ealbicocche |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Falcone,"Cantucci
+pistacchioe
+cedro StarK-D L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Falcone | Cantucci
+pistacchioe
+cedro |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+63,Grisbi,"Biscottiripieni
+alCioccolato Approvato
+BDM/BDR L |",,,,,"| Biscotti | Grisbi | Biscottiripieni
+alCioccolato |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+63,Grisbi,"Biscottiripieni
+allaCremadi
+Limone Approvato
+BDM/BDR L |",,,,,"| Biscotti | Grisbi | Biscottiripieni
+allaCremadi
+Limone |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+63,Grisbi,"Biscottiripieni
+allaCremadi
+Nocciole Approvato
+BDM/BDR L |",,,,,"| Biscotti | Grisbi | Biscottiripieni
+allaCremadi
+Nocciole |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Cappuccino Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Cappuccino |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Cioccolato Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Cioccolato |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Cocco Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Cocco |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Nocciola Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Nocciola |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Limone Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Limone |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Arancia Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Arancia |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+ricoperti Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+ricoperti |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Fragola Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Fragola |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Party-Wafer
+Vaniglia Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Party-Wafer
+Vaniglia |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Plaisir-
+Ricoperti
+fondente Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Plaisir-
+Ricoperti
+fondente |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Plaisir-
+Ricopertial
+latte Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Plaisir-
+Ricopertial
+latte |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Poker-Wafer
+Cappuccino Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Poker-Wafer
+Cappuccino |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Poker-Wafer
+Cioccolato Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Poker-Wafer
+Cioccolato |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+64,Lago,"Poker-Wafer
+Nocciola Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Poker-Wafer
+Nocciola |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+65,Lago,"Poker-Wafer
+Limone Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Poker-Wafer
+Limone |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+65,Lago,"Poker-Wafer
+Vaniglia Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | Poker-Wafer
+Vaniglia |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+65,Lago,"RollBreak-
+Cappuccino Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | RollBreak-
+Cappuccino |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+65,Lago,"RollBreak-
+Nocciola Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | RollBreak-
+Nocciola |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+65,Lago,"RollBreak-
+Latte Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | RollBreak-
+Latte |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+65,Lago,"RollBreak-
+Fragola Approvato
+BDM/BDR L |",,,,,"| Biscotti | Lago | RollBreak-
+Fragola |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Biscuit
+Mandorla Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Biscuit
+Mandorla |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"ChipChoc Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | ChipChoc |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Biscuit-Burro
+diarachidi Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Biscuit-Burro
+diarachidi |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Biscuit-
+Snowflakes Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Biscuit-
+Snowflakes |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Classic-
+Alpinemilk Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Alpinemilk |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Classic-
+Cannella Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Cannella |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Classic-
+CocoaeMilk Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+CocoaeMilk |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Classic-
+Cremkakao Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Cremkakao |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Classic-
+DoubleChoc Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+DoubleChoc |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+66,Loacker,"Classic-Pan
+diZenzero Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-Pan
+diZenzero |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Classic-
+Lemon Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Lemon |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Classic-
+Napolitaner Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Classic-
+Peanutbutter Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Peanutbutter |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Classic-
+Vanille Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Classic-
+Vanille |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"ClassicMini
+mix Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | ClassicMini
+mix |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Gardena-
+Chocolate Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Gardena-
+Chocolate |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Gardena-
+Hazelnut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Gardena-
+Hazelnut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Gardena-
+Peanutbutter Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Gardena-
+Peanutbutter |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"LoackiniDark Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | LoackiniDark |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"LoackiniMilk Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | LoackiniMilk |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Maxi
+Cremkakao Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Maxi
+Cremkakao |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"MaxiHazelnut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | MaxiHazelnut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Maxi-
+Napolitaner Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Maxi-
+Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Maxi-Vanille Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Maxi-Vanille |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Multigrain
+Chocolate Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Multigrain
+Chocolate |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Multigrain
+Hazelnut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Multigrain
+Hazelnut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Patisserie-
+Cappuccino Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Patisserie-
+Cappuccino |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Patisserie-
+Creme
+noisette Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Patisserie-
+Creme
+noisette |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Patisserie-
+NoirOrange Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Patisserie-
+NoirOrange |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Patisserie-
+Coconut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Patisserie-
+Coconut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+67,Loacker,"Patisserie-
+White
+Coconut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Patisserie-
+White
+Coconut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Chocolate Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Chocolate |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Napolitaner Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Mirtilloe
+yogurt Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Mirtilloe
+yogurt |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Cappuccino Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Cappuccino |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Cannella Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Cannella |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Cocoaemilk Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Cocoaemilk |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Coconut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Coconut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Dark
+Chocolate Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Dark
+Chocolate |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Double
+Chocolat Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Double
+Chocolat |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Espresso Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Espresso |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Limone Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Limone |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+LessSugar Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+LessSugar |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Matchagreen
+tea Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Matchagreen
+tea |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Multigrain
+Chocolat Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Multigrain
+Chocolat |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Multigrain
+Hazelnut Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Multigrain
+Hazelnut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Napolitaner Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Peanutbutter Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Peanutbutter |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Lamponee
+yogurt Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Lamponee
+yogurt |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+68,Loacker,"Quadratini-
+Cheese Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Cheese |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Quadratini-
+Tiramisù Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Tiramisù |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Quadratini-
+Vanille Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Quadratini-
+Vanille |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-Mirtillo
+neroeyogurt Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-Mirtillo
+neroeyogurt |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-Dark
+Chocolate Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-Dark
+Chocolate |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-
+Espresso Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-
+Espresso |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-
+Matcha Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-
+Matcha |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-
+Napolitaner Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-
+Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-
+Lamponee
+yogurt Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-
+Lamponee
+yogurt |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Loacker,"Thins-
+Espresso Approvato
+BDM/BDR L |",,,,,"| Biscotti | Loacker | Thins-
+Espresso |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,"Pepperidge
+farm","OUD L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Pepperidge
+farm |  |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+69,Vicenzi,"Amaretto
+d'Italia Approvato
+BDM/BDR L |",,,,,"| Biscotti | Vicenzi | Amaretto
+d'Italia |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Vicenzi,"Millefoglie
+d'Italia
+Classiche Approvato
+BDM/BDR L |",125gr,,,,"| Biscotti | Vicenzi | Millefoglie
+d'Italia
+Classiche | 125gr | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Vicenzi,"MiniSnack
+conCrema
+Pasticcera Approvato
+BDM/BDR L |",125gr,,,,"| Biscotti | Vicenzi | MiniSnack
+conCrema
+Pasticcera | 125gr | Approvato
+BDM/BDR | L |",yes,no_hechsher
+69,Vicenzi,"MiniSnack
+conCrema
+allaNocciola Approvato
+BDM/BDR L |",,,,,"| Biscotti | Vicenzi | MiniSnack
+conCrema
+allaNocciola |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Vicenzi,"Bocconcini
+ripienidi
+Cremaallatte Approvato
+BDM/BDR L |",,,,,"| Biscotti | Vicenzi | Bocconcini
+ripienidi
+Cremaallatte |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Vicenzi,"Bocconcini
+ripienidi
+cremaal
+cioccolato Approvato
+BDM/BDR L |",,,,,"| Biscotti | Vicenzi | Bocconcini
+ripienidi
+cremaal
+cioccolato |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Vicenzi,"Ciambellineal
+burrofresco Approvato
+BDM/BDR L |",85gr,,,,"| Biscotti | Vicenzi | Ciambellineal
+burrofresco | 85gr | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Vicenzi,"Fiorellini Approvato
+BDM/BDR L |",,,,,"| Biscotti | Vicenzi | Fiorellini |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Walkers,"TuttiiProdotti
+riportantiil
+logoOUD
+sulla
+confezione OUD L Hekhshèrsulla
+confezione",,,,,"| Biscotti | Walkers | TuttiiProdotti
+riportantiil
+logoOUD
+sulla
+confezione |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+70,Vicenzi,"Bignèda
+riempire Approvato
+BDM/BDR L |",90gr,,,,"| Basiperdolci | Vicenzi | Bignèda
+riempire | 90gr | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Vicenzi,"Basidi
+Pastasfoglia Approvato
+BDM/BDR L |",,,,,"| Basiperdolci | Vicenzi | Basidi
+Pastasfoglia |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+70,Vicenzi,"VolAuVent Approvato
+BDM/BDR L |",,,,,"| Basiperdolci | Vicenzi | VolAuVent |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+72,Nestlé,"FitnessChoco
+Dark BetDin
+Paris L |",,,,,"| Cerealidacolazione | Nestlé | FitnessChoco
+Dark |  | BetDin
+Paris | L |",yes,no_hechsher
+72,Nestlé,"Fitness
+Chocolate BetDin
+Paris L |",,,,,"| Cerealidacolazione | Nestlé | Fitness
+Chocolate |  | BetDin
+Paris | L |",yes,no_hechsher
+73,Balconi,"ChocoDessert OUD L Hekhshèrsulla
+confezione",,,,,"| Torte | Balconi | ChocoDessert |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+73,Balconi,"Viennese OUD L Hekhshèrsulla
+confezione",,,,,"| Torte | Balconi | Viennese |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+73,Balconi,"RollMax-
+Cacao OUD L Hekhshèrsulla
+confezione",,,,,"| Torte | Balconi | RollMax-
+Cacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+73,Balconi,"RollMax-
+Cappuccino OUD L Hekhshèrsulla
+confezione",,,,,"| Torte | Balconi | RollMax-
+Cappuccino |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+75,AmedeiTuscany,"Cioccolato
+Fondente
+Extra-9 StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Fondente
+Extra-9 |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+75,AmedeiTuscany,"Cioccolato
+Fondente-
+Porcelana StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Fondente-
+Porcelana |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+75,AmedeiTuscany,"Cioccolato
+Fondente-
+Blancode
+Criollo StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Fondente-
+Blancode
+Criollo |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+75,AmedeiTuscany,"Cioccolato
+Fondente-
+Toscano
+Black70 StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Fondente-
+Toscano
+Black70 |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+75,AmedeiTuscany,"Cioccolato
+Fondente-
+Toscano
+Black66 StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Fondente-
+Toscano
+Black66 |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+75,AmedeiTuscany,"Cioccolato
+Gianduja-
+ToscanoNut
+Brown StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Gianduja-
+ToscanoNut
+Brown |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+76,AmedeiTuscany,"Cioccolato
+Fondente-
+Toscano
+Black63 StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Fondente-
+Toscano
+Black63 |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+76,AmedeiTuscany,"Cioccolatoal
+Latte-
+Toscano
+Brown StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolatoal
+Latte-
+Toscano
+Brown |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+76,AmedeiTuscany,"Cioccolatoal
+Latte-
+Toscano
+White StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolatoal
+Latte-
+Toscano
+White |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+76,AmedeiTuscany,"Cioccolato
+Extra
+Fondente-
+Cru StarK-D L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | AmedeiTuscany | Cioccolato
+Extra
+Fondente-
+Cru |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+76,Loacker,"Cioccolata-
+Napolitaner Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Cioccolata-
+Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Cioccolata
+Fondente Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Cioccolata
+Fondente |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Classicdark Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Classicdark |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Classicmilk Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Classicmilk |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Classic
+white Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Classic
+white |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Crispy
+caramel
+hazelnut Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Crispy
+caramel
+hazelnut |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Crispy
+coffee Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Crispy
+coffee |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Crispydark Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Crispydark |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Crispy
+darkmilk Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Crispy
+darkmilk |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Crispy
+stracciatella Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Crispy
+stracciatella |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Specialty
+Chocolate
+cream Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Specialty
+Chocolate
+cream |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Specialty
+darkcream Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Specialty
+darkcream |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+76,Loacker,"Specialty
+milkcream Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Specialty
+milkcream |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+77,Loacker,"Specialty
+napolitaner Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Specialty
+napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+77,Loacker,"Specialty
+lamponee
+yogurt Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Specialty
+lamponee
+yogurt |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+77,Loacker,"Specialty
+whitecream Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Loacker | Specialty
+whitecream |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+77,LuigiZaini,"Emilia-
+Cioccolato
+Fondente OKD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | LuigiZaini | Emilia-
+Cioccolato
+Fondente |  | OKD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,LuigiZaini,"Emilia-
+Cioccolato
+Extra
+Fondente
+70% OKD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | LuigiZaini | Emilia-
+Cioccolato
+Extra
+Fondente
+70% |  | OKD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,LuigiZaini,"Emilia-
+Cioccolatoal
+Latte OKD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | LuigiZaini | Emilia-
+Cioccolatoal
+Latte |  | OKD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,LuigiZaini,"Emilia-
+Cioccolato
+Bianco OKD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | LuigiZaini | Emilia-
+Cioccolato
+Bianco |  | OKD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolato
+Fondente
+70% Tavolette
+Anchein
+formato
+Sottilissime
+Sfoglie OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolato
+Fondente
+70% | Tavolette
+Anchein
+formato
+Sottilissime
+Sfoglie | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolato
+Fondente
+85% Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolato
+Fondente
+85% | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolato
+Fondente Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolato
+Fondente | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolato
+Fondente
+con
+Mandorle Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolato
+Fondente
+con
+Mandorle | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolato
+Fondente
+all'Arancia Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolato
+Fondente
+all'Arancia | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolatoal
+Latte Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolatoal
+Latte | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+77,Perugina,"Cioccolatoal
+Lattecon
+Mandorle Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolatoal
+Lattecon
+Mandorle | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Cioccolatoal
+Lattecon
+Nocciole Tavolette OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Cioccolatoal
+Lattecon
+Nocciole | Tavolette | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Espresso
+51% OUD L Hekhshèrsulla
+confezione",85gr,,,,"| Cioccolato | Perugina | Espresso
+51% | 85gr | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Nero-
+Fondente
+Extracon
+Mandorle OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Nero-
+Fondente
+Extracon
+Mandorle |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Nero-
+Fondente
+Extracon
+semidi
+Cacao OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Nero-
+Fondente
+Extracon
+semidi
+Cacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Nero-
+Fondente
+Extracon
+cristallidi
+Zenzero OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Nero-
+Fondente
+Extracon
+cristallidi
+Zenzero |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Nero-
+Fondente
+Extra
+Arancia
+intensa OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Nero-
+Fondente
+Extra
+Arancia
+intensa |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Perugina,"Nero-
+Fondente
+Extra
+Pistacchio
+croccante OUD L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Perugina | Nero-
+Fondente
+Extra
+Pistacchio
+croccante |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Schogetten,"VariGusti RavT.Hod
+Hochwald-Germany L Hekhshèrsulla
+confezione",,,,,"| Cioccolato | Schogetten | VariGusti |  | RavT.Hod
+Hochwald-Germany | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+78,Toblerone,"Toblerone
+Fondente Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Toblerone | Toblerone
+Fondente |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+78,Toblerone,"Toblerone
+Latte Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Toblerone | Toblerone
+Latte |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+78,Toblerone,"Toblerone
+Bianco Approvato
+BDM/BDR L |",,,,,"| Cioccolato | Toblerone | Toblerone
+Bianco |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+79,Ferrero,"Nutella Approvato
+BDM/BDR L Prodottanello
+stabilimento
+diAlba",,,,,"| Creme
+spalmabili | Ferrero | Nutella |  | Approvato
+BDM/BDR | L | Prodottanello
+stabilimento
+diAlba",yes,no_hechsher
+79,Loacker,"Napolitaner Approvato
+BDM/BDR L |",,,,,"| Creme
+spalmabili | Loacker | Napolitaner |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+79,Loacker,"Napolitaner
+crispy
+creme Approvato
+BDM/BDR L |",,,,,"| Creme
+spalmabili | Loacker | Napolitaner
+crispy
+creme |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+79,Nutkao,"Cioccolato
+Fondente OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Cioccolato
+Fondente |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Cioccolato
+Biancocon
+Nocciole OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Cioccolato
+Biancocon
+Nocciole |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Cioccolatoal
+Latte OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Cioccolatoal
+Latte |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Crema
+Biancacon
+Nocciole OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Crema
+Biancacon
+Nocciole |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Crema
+Bianca OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Crema
+Bianca |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Gianduia OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Gianduia |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Crema
+Nocciolae
+Cacao OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Crema
+Nocciolae
+Cacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Crema
+Cacao OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Crema
+Cacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Nutkao,"Crema
+Cioccolato
+Bianco OUD L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Nutkao | Crema
+Cioccolato
+Bianco |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Rigoni,"Nocciolata
+Rigoni Normalee
+crunchy StarK-D L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Rigoni | Nocciolata
+Rigoni | Normalee
+crunchy | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+79,Rigoni,"Nocciolata
+bianca StarK-D L Hekhshèrsulla
+confezione",,,,,"| Creme
+spalmabili | Rigoni | Nocciolata
+bianca |  | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+81,Ferrero,"Ferrero
+Rocher Approvato
+BDM/BDR L Prodottonello
+stabilimento
+diAlba",,,,,"| Praline/
+dragees | Ferrero | Ferrero
+Rocher |  | Approvato
+BDM/BDR | L | Prodottonello
+stabilimento
+diAlba",yes,no_hechsher
+82,Perugina,"Bacio
+Fondente tuttii
+formati OUD L Hekhshèrsulla
+confezione",,,,,"| Praline/
+dragees | Perugina | Bacio
+Fondente | tuttii
+formati | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Perugina,"Bacioal
+Latte tuttii
+formati OUD L Hekhshèrsulla
+confezione",,,,,"| Praline/
+dragees | Perugina | Bacioal
+Latte | tuttii
+formati | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Perugina,"Bacio
+Fondentissi
+mo tuttii
+formati OUD L Hekhshèrsulla
+confezione",,,,,"| Praline/
+dragees | Perugina | Bacio
+Fondentissi
+mo | tuttii
+formati | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Perugina,"Bacio
+Bianco tuttii
+formati OUD L Hekhshèrsulla
+confezione",,,,,"| Praline/
+dragees | Perugina | Bacio
+Bianco | tuttii
+formati | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Rollino
+Nocciola OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Rollino
+Nocciola |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Trancetto
+Albicocca OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Trancetto
+Albicocca |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"SnackCacao OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | SnackCacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"MixMilk OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | MixMilk |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"MixMax OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | MixMax |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Chocoe
+Latte OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Chocoe
+Latte |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"MixMax
+Cocco OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | MixMax
+Cocco |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Trancetto
+Cacao OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Trancetto
+Cacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Cereal OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Cereal |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Choco
+Orange OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Choco
+Orange |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Rollino
+Nocciola OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Rollino
+Nocciola |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Rollino
+Cacao OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Rollino
+Cacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"RollinoLatte OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | RollinoLatte |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"MiniRolls
+Cioccolato OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | MiniRolls
+Cioccolato |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"MiniRolls
+Albicocca OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | MiniRolls
+Albicocca |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"Roll
+Nocciola OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | Roll
+Nocciola |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+82,Balconi,"RollCacao OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | RollCacao |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+83,Balconi,"RollFrutta OUD L Hekhshèrsulla
+confezione",,,,,"| Snackdolce | Balconi | RollFrutta |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+83,Ferrero,"Duplo Prodottoa
+Sant'Angelo
+dei
+Lombardi Approvato
+BDM/BDR L LetteraSnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Duplo | Prodottoa
+Sant'Angelo
+dei
+Lombardi | Approvato
+BDM/BDR | L | LetteraSnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Ferrero,"Kinder
+Bueno Approvato
+BDM/BDR L LetteraAoS
+nelnumerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Kinder
+Bueno |  | Approvato
+BDM/BDR | L | LetteraAoS
+nelnumerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Ferrero,"Kinder
+cereali Approvato
+BDM/BDR L LetteraAnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Kinder
+cereali |  | Approvato
+BDM/BDR | L | LetteraAnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Ferrero,"Kinder
+cioccolato Approvato
+BDM/BDR L LetteraAnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Kinder
+cioccolato |  | Approvato
+BDM/BDR | L | LetteraAnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Ferrero,"Kinder
+Delice Prodotto
+nello
+stabilimento
+diPozzuolo
+Martesana Approvato
+BDM/BDR L |",,,,,"| Snackdolce | Ferrero | Kinder
+Delice | Prodotto
+nello
+stabilimento
+diPozzuolo
+Martesana | Approvato
+BDM/BDR | L |",yes,no_hechsher
+83,Ferrero,"Nutella
+B-ready Prodotto
+nello
+stabilimento
+diAlba Approvato
+BDM/BDR L LetteraAnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Nutella
+B-ready | Prodotto
+nello
+stabilimento
+diAlba | Approvato
+BDM/BDR | L | LetteraAnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Ferrero,"Ovetto
+Kinder Prodotto
+nello
+stabilimento
+diAlba Approvato
+BDM/BDR L LetteraAnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Ovetto
+Kinder | Prodotto
+nello
+stabilimento
+diAlba | Approvato
+BDM/BDR | L | LetteraAnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Ferrero,"Tronky Prodottoa
+Sant'Angelo
+dei
+Lombardi Approvato
+BDM/BDR L LetteraSnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Ferrero | Tronky | Prodottoa
+Sant'Angelo
+dei
+Lombardi | Approvato
+BDM/BDR | L | LetteraSnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Mars,"Bounty Approvato
+BDM/BDR L NLDoDEnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Mars | Bounty |  | Approvato
+BDM/BDR | L | NLDoDEnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Mars,"Mars Approvato
+BDM/BDR L NLDoDEnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Mars | Mars |  | Approvato
+BDM/BDR | L | NLDoDEnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+83,Mars,"Snickers Approvato
+BDM/BDR L NLDoDEnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Mars | Snickers |  | Approvato
+BDM/BDR | L | NLDoDEnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+84,Mars,"Twix Prodottoin
+Olandao
+Germania Approvato
+BDM/BDR L NLDoDEnel
+numerodi
+lottosulla
+confezione",,,,,"| Snackdolce | Mars | Twix | Prodottoin
+Olandao
+Germania | Approvato
+BDM/BDR | L | NLDoDEnel
+numerodi
+lottosulla
+confezione",yes,no_hechsher
+84,NatureValley,"Protein-
+Caramello
+Salato Approvato
+BDM/BDR L |",40gr,,,,"| Snackdolce | NatureValley | Protein-
+Caramello
+Salato | 40gr | Approvato
+BDM/BDR | L |",yes,no_hechsher
+84,NatureValley,"Protein-
+Arachidie
+Cioccolato Approvato
+BDM/BDR L |",40gr,,,,"| Snackdolce | NatureValley | Protein-
+Arachidie
+Cioccolato | 40gr | Approvato
+BDM/BDR | L |",yes,no_hechsher
+84,Perugina,"Cioccolato
+Fondente
+70% Barretta OUD L |",,,,,"| Snackdolce | Perugina | Cioccolato
+Fondente
+70% | Barretta | OUD | L |",yes,no_hechsher
+84,Tasteofnature,"Ciliegiae
+Cioccolata
+fondente OUD L Hekhshèrsulla
+confezione",40gr,,,,"| Snackdolce | Tasteofnature | Ciliegiae
+Cioccolata
+fondente | 40gr | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+84,Tasteofnature,"Cioccolatoe
+Arancia OUD L Hekhshèrsulla
+confezione",40gr,,,,"| Snackdolce | Tasteofnature | Cioccolatoe
+Arancia | 40gr | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+84,Tasteofnature,"Cioccolato,
+Nocciolinee
+Sale OUD L Hekhshèrsulla
+confezione",45gr,,,,"| Snackdolce | Tasteofnature | Cioccolato,
+Nocciolinee
+Sale | 45gr | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+86,Fabbri1905,"Gourmet
+SauceCacao StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+SauceCacao | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+86,Fabbri1905,"Gourmet
+Sauce
+Caramello StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Caramello | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+86,Fabbri1905,"Gourmet
+Sauce
+Choco
+bianco StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Choco
+bianco | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+86,Fabbri1905,"Gourmet
+Sauce
+Cioccolato
+bianco StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Cioccolato
+bianco | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+86,Fabbri1905,"Gourmet
+Sauce
+Cioccolato StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Cioccolato | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+86,Fabbri1905,"Gourmet
+SauceCocco StarK-D L Hekhshèrsulla
+confezione",900gr,,,,"| Topping | Fabbri1905 | Gourmet
+SauceCocco | 900gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Gourmet
+SauceDulce
+deLeche StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+SauceDulce
+deLeche | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Gourmet
+Sauce
+Kroccant
+Choco StarK-D L Hekhshèrsulla
+confezione",780gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Kroccant
+Choco | 780gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Gourmet
+Sauce
+Nocciola ,950
+gr StarK-D L Hekhshèrsulla
+confezione",800gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Nocciola | 800gr,950
+gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Gourmet
+Sauce
+Vaniglia StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Gourmet
+Sauce
+Vaniglia | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Topping
+Caffe StarK-D L Hekhshèrsulla
+confezione",900gr,,,,"| Topping | Fabbri1905 | Topping
+Caffe | 900gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Topping
+Choco
+bianco ,950
+gr StarK-D L Hekhshèrsulla
+confezione",900gr,,,,"| Topping | Fabbri1905 | Topping
+Choco
+bianco | 900gr,950
+gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Topping
+Cioccolato StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Topping
+Cioccolato | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Topping
+Cioccolato
+con
+peperoncin
+o StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Topping
+Cioccolato
+con
+peperoncin
+o | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Topping
+Nocciolae
+Cioccolato StarK-D L Hekhshèrsulla
+confezione",800gr,,,,"| Topping | Fabbri1905 | Topping
+Nocciolae
+Cioccolato | 800gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Topping
+Nocciola
+export StarK-D L Hekhshèrsulla
+confezione",950gr,,,,"| Topping | Fabbri1905 | Topping
+Nocciola
+export | 950gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Mini
+Topping
+Cioccolato StarK-D L Hekhshèrsulla
+confezione",225gr,,,,"| Topping | Fabbri1905 | Mini
+Topping
+Cioccolato | 225gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+87,Fabbri1905,"Mini
+Topping
+Nocciola StarK-D L Hekhshèrsulla
+confezione",225gr,,,,"| Topping | Fabbri1905 | Mini
+Topping
+Nocciola | 225gr | StarK-D | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+88,Kind,"Varigusti OUD L Hekhshèrsulla
+confezione",,,,,"| Barrette | Kind | Varigusti |  | OUD | L | Hekhshèrsulla
+confezione",yes,no_hechsher
+94,Ben&Jerry,Varigusti KofK-D L Hekhshèrsullaconfezione,,,,,| Gelati | Ben&Jerry | Varigusti |  | KofK-D | L | Hekhshèrsullaconfezione,yes,no_hechsher
+94,HaagenDazs,Varigusti OUD L Hekhshèrsullaconfezione,,,,,| Gelati | HaagenDazs | Varigusti |  | OUD | L | Hekhshèrsullaconfezione,yes,no_hechsher
+99,Inalpi,"Burro
+chiarificato Approvato
+BDM/BDR L |",,,,,"| Burrochiarificato | Inalpi | Burro
+chiarificato |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+99,Inalpi,"BurroAlpino
+Piemontese Approvato
+BDM/BDR L |",,,,,"| Burrodicentrifuga | Inalpi | BurroAlpino
+Piemontese |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+99,Lurpak,"Classico OKD L Holstebro
+MejeriPlantDK
+M199,
+Holstebro,
+DENMARK",,,,,"| Burrodicentrifuga | Lurpak | Classico |  | OKD | L | Holstebro
+MejeriPlantDK
+M199,
+Holstebro,
+DENMARK",yes,no_hechsher
+99,Lurpak,"Leggermente
+Salato OKD L Holstebro
+MejeriPlantDK
+M199,
+Holstebro,
+DENMARK",,,,,"| Burrodicentrifuga | Lurpak | Leggermente
+Salato |  | OKD | L | Holstebro
+MejeriPlantDK
+M199,
+Holstebro,
+DENMARK",yes,no_hechsher
+99,Meggle,"Pascoli
+Bavaresi MaorHakashrut-
+RavM.I.Levinger-
+BASEL L |",,,,,"| Burrodicentrifuga | Meggle | Pascoli
+Bavaresi |  | MaorHakashrut-
+RavM.I.Levinger-
+BASEL | L |",yes,no_hechsher
+99,Yomo,"Interobianco
+naturale Approvato
+BDM/BDR L |",,,,,"| Yogurt | Yomo | Interobianco
+naturale |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+99,Yomo,"Interocon
+caffè Approvato
+BDM/BDR L |",,,,,"| Yogurt | Yomo | Interocon
+caffè |  | Approvato
+BDM/BDR | L |",yes,no_hechsher
+101,Proibiti,Proibitiinassenzadicontrollo,,,,,"NumeroE,funzione | Proibiti | Proibitiinassenzadicontrollo",yes,no_hechsher
+101,120,"101,104,140,141,153,160a,161c,,163,
+170",161g,,,,"100Coloranti | 120 | 101,104,140,141,153,160a,161c,161g,163,
+170",yes,no_hechsher
+101,,"214-215,235,252,270,280-283",,,,,"200Conservanti |  | 214-215,235,252,270,280-283",yes,no_hechsher;no_brand
+101,,"304,322,325,326,327,328,329,334,335,336,
+337,354",,,,,"300Antiossidantiecorrettoridiacidità |  | 304,322,325,326,327,328,329,334,335,336,
+337,354",yes,no_hechsher;no_brand
+101,441,"405,415,422,430-436,442,445,470,471,472
+a-f,473,474,475,476,477,478,479b,481,482,
+483,484,491,492,493,494,495",,,,,"400Addensanti,stabilizzanti,emulsionanti | 441 | 405,415,422,430-436,442,445,470,471,472
+a-f,473,474,475,476,477,478,479b,481,482,
+483,484,491,492,493,494,495",yes,no_hechsher
+101,542,"570,572,585",,,,,"500Correttoridiaciditàeantiagglomeranti | 542 | 570,572,585",yes,no_hechsher
+101,"630,631,635","626,627,628,629,632,633,634,640",,,,,"600Esaltatoridisapidità | 630,631,635 | 626,627,628,629,632,633,634,640",yes,no_hechsher
+101,1000,"904(qualcunopermette),910,920,921,1105,
+1510,1517,1518",,,,,"900Vari,aromi,solventiecc. | 1000 | 904(qualcunopermette),910,920,921,1105,
+1510,1517,1518",yes,no_hechsher
+101,"Possonoesserederivatidallatte:469,637,966",|,,,,,"Possonoesserederivatidallatte:469,637,966 |  |",yes,short_product;no_hechsher

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Kosher Catalog</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Kosher product finder</h1>
+    <div class="lang-toggle">
+      <button id="lang-it" class="active">IT</button>
+      <button id="lang-en">EN</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="controls">
+      <input id="q" placeholder="Search products, brand, hechsher..." />
+      <div id="facets">
+        <label>Brand: <select id="brand-filter"><option value="">All</option></select></label>
+        <label>Hekhshèr: <select id="hechsher-filter"><option value="">All</option></select></label>
+        <label>Status: <select id="status-filter"><option value="">All</option></select></label>
+      </div>
+    </section>
+
+    <section id="results" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>Data source: Prodotti approvati 5784‑2024 — informational use.</p>
+  </footer>
+
+<script>
+const CSV_FILE = 'kashrut_products_cleaned.csv'; // must be present
+let data = [];
+let fuse;
+let currentLang = 'it';
+
+function slugify(s){
+  return (s||'').toLowerCase().replace(/[^a-z0-9\u00C0-\u017F]+/g,'-').replace(/-+/g,'-').replace(/^-|-$/g,'');
+}
+
+function createOption(sel, val){
+  const o = document.createElement('option'); o.value = val; o.textContent = val; sel.appendChild(o);
+}
+
+function renderResults(items){
+  const container = document.getElementById('results');
+  container.innerHTML = '';
+  if(!items || items.length===0){ container.innerHTML = '<p>No results</p>'; return; }
+  items.forEach(it=>{
+    const div = document.createElement('div');
+    div.className = 'result';
+    const title = it.product_name || it.title || '—';
+    const brand = it.brand || '—';
+    const hechsher = it.hechsher || '—';
+    const status = it.status || '—';
+    const lot = it.lot_rule || '';
+    const pdfPage = it.page || '';
+    const pdfLink = pdfPage ? ('/source/' + encodeURIComponent('Kashrut-Ari-Lista-Generale-5784-2024.pdf') + '#page=' + pdfPage) : '#';
+    div.innerHTML = `
+      <h3>${title}</h3>
+      <p><strong>Brand:</strong> ${brand} | <strong>Hekhshèr:</strong> ${hechsher} | <strong>Status:</strong> ${status}</p>
+      <p>${lot ? ('<strong>Lot rule:</strong> ' + lot) : ''}</p>
+      <p><a href="${pdfLink}" target="_blank">View source PDF page${pdfPage ? (' ' + pdfPage) : ''}</a></p>
+    `;
+    container.appendChild(div);
+  });
+}
+
+function applyFiltersAndQuery(q){
+  const brand = document.getElementById('brand-filter').value;
+  const hechsher = document.getElementById('hechsher-filter').value;
+  const status = document.getElementById('status-filter').value;
+  let results = data;
+  if(q && q.length>0){
+    results = fuse.search(q).map(r=>r.item);
+  }
+  if(brand) results = results.filter(it => (it.brand||'') === brand);
+  if(hechsher) results = results.filter(it => (it.hechsher||'') === hechsher);
+  if(status) results = results.filter(it => (it.status||'') === status);
+  renderResults(results);
+}
+
+function initUI(){
+  document.getElementById('q').addEventListener('input', e => applyFiltersAndQuery(e.target.value.trim()));
+  ['brand-filter','hechsher-filter','status-filter'].forEach(id=>{
+    document.getElementById(id).addEventListener('change', ()=> applyFiltersAndQuery(document.getElementById('q').value.trim()));
+  });
+  document.getElementById('lang-it').addEventListener('click', ()=> { currentLang='it'; document.getElementById('lang-it').classList.add('active'); document.getElementById('lang-en').classList.remove('active'); });
+  document.getElementById('lang-en').addEventListener('click', ()=> { currentLang='en'; document.getElementById('lang-en').classList.add('active'); document.getElementById('lang-it').classList.remove('active'); });
+}
+
+function buildFacets(dataset){
+  const brands = new Set(), hechs = new Set(), stats = new Set();
+  dataset.forEach(r => { brands.add(r.brand || '—'); hechs.add(r.hechsher || '—'); stats.add(r.status || '—'); });
+  const bsel = document.getElementById('brand-filter'), hsel = document.getElementById('hechsher-filter'), ssel = document.getElementById('status-filter');
+  Array.from(brands).sort().forEach(v => createOption(bsel, v));
+  Array.from(hechs).sort().forEach(v => createOption(hsel, v));
+  Array.from(stats).sort().forEach(v => createOption(ssel, v));
+}
+
+function loadCSV(){
+  Papa.parse(CSV_FILE, {
+    header: true,
+    download: true,
+    skipEmptyLines: true,
+    complete: function(results){
+      // exclude ambiguous rows
+      data = results.data.filter(r => (r.ambiguous || '').toLowerCase() !== 'yes');
+      // normalize fields
+      data = data.map(r => ({
+        brand: (r.brand||'').trim(),
+        product_name: (r.product_name||r.product_name||'').trim(),
+        format: (r.format||'').trim(),
+        hechsher: (r.hechsher||'').trim(),
+        status: (r.status||'').trim(),
+        lot_rule: (r.lot_rule||'').trim(),
+        page: (r.page||'').trim(),
+        raw: (r.raw_row||r.raw||'').trim()
+      }));
+      buildFacets(data);
+      const fuseOptions = { keys: [{name:'product_name', weight:0.6}, {name:'brand', weight:0.2}, {name:'hechsher', weight:0.15}, {name:'lot_rule', weight:0.05}], threshold: 0.4 };
+      fuse = new Fuse(data, fuseOptions);
+      renderResults(data);
+    }
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => { initUI(); loadCSV(); });
+</script>
+</body>
+</html>
